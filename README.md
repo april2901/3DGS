@@ -10,6 +10,10 @@
 [3DGS 구현](https://april2901.tistory.com/category/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%2C%20%EC%97%B0%EA%B5%AC/3DGS%20%EA%B5%AC%ED%98%84)
 <br>
 
+## Training Progress Visualization (0 - 30,000 Iters)
+무작위 포인트 클라우드에서 정교한 자전거 씬이 형상화되는 과정을 타임랩스로 확인하세요.
+
+[![3DGS Training Process](https://img.youtube.com/vi/VGCpjcYWWpQ/0.jpg)](https://www.youtube.com/watch?v=VGCpjcYWWpQ)
 ###  Folder Structure & Usage 
 
 > **NOTE:** 본 저장소에는 **핵심 로직을 담은 파이썬(.py) 소스 코드만** 업로드되어 있습니다. 데이터셋과 필수 라이브러리, 그리고 렌더링에 필요한 rasterizer는 별도로 준비해야 합니다.
